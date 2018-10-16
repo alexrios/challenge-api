@@ -1,6 +1,6 @@
-##SWAPI Challenge
+## SWAPI Challenge
 
-####Requisitos:
+#### Requisitos:
 * A API deve ser REST
 * Para cada planeta, os seguintes dados devem ser obtidos do banco de dados da aplicação, sendo inserido manualmente:
   * Nome
@@ -8,7 +8,7 @@
   * Terreno
   * Quantidade de aparições em filmes (que podem ser obtidas pela API pública do Star Wars:  https://swapi.co/)
 
-####Funcionalidades: 
+#### Funcionalidades: 
 * Adicionar um planeta (com nome, clima e terreno)
 * Listar planetas
 * Buscar por nome
