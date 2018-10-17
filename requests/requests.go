@@ -11,9 +11,9 @@ type NewPlanetRequest struct {
 }
 
 type FindByNameRequest struct {
-	Name string `json:"name "valid:"alphanum"`
+	Name string `json:"name" valid:"alphanum"`
 }
 
 type FindByIDRequest struct {
-	Id string `json:"id "valid:"alphanum"`
+	Id string `json:"id" valid:"alphanum"`
 }
