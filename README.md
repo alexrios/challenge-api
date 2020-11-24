@@ -1,4 +1,4 @@
-## SWAPI Challenge
+## SWAPI Challenge (OUTDATED - Não use esse projeto como referencia para nada)
 
 #### Requisitos:
 * A API deve ser REST
